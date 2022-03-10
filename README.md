@@ -52,12 +52,40 @@ TF-IDF를 이용하여 각 단어에 가중치 부여
 - TF: 문서 내 특정 단어의 빈도
 - DF: 특정 단어가 나타나는 문서 수
 
+<img src="/img/tf-idf.PNG" width="200" height="120">
+
 <br>
 
 ### 3. EDA
 
+<img src="/img/eda1.PNG" width="400" height="250">
+
+<img src="/img/eda2.PNG" width="400" height="250">
+
+<img src="/img/eda3.PNG" width="600" height="350">
+
+<img src="/img/eda4.png" width="800" height="500">
+
+<img src="/img/eda5.png" width="800" height="500">
+
 <br>
 
 ### 4. Prediction
+
+#### 1) Naive Bayes
+
+> Training set accuracy: 85.94% <br> Test set accuracy: 86.13%
+
+#### 2) Random Forest
+
+> Training set accuracy: 89.75% <br> Test set accuracy: 85.70%
+
+#### 3) MLP(Multi-Layer Perceptron)
+
+> Training set accuracy: 96.28% <br> Test set accuracy: 87.07%
+
+#### 4) SVM(Support Vector Machine)
+
+> Training set accuracy: 92.35% <br> Test set accuracy: 89.23%
 
 <br>
