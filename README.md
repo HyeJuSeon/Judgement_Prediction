@@ -74,18 +74,26 @@ TF-IDF를 이용하여 각 단어에 가중치 부여
 
 #### 1) Naive Bayes
 
-> Training set accuracy: 85.94% <br> Test set accuracy: 86.13%
+    Training set accuracy: 85.94%
+    Test set accuracy: 86.13%
 
 #### 2) Random Forest
 
-> Training set accuracy: 89.75% <br> Test set accuracy: 85.70%
+    Training set accuracy: 89.75%
+    Test set accuracy: 85.70%
 
 #### 3) MLP(Multi-Layer Perceptron)
 
-> Training set accuracy: 96.28% <br> Test set accuracy: 87.07%
+    Training set accuracy: 96.28%
+    Test set accuracy: 87.07%
 
 #### 4) SVM(Support Vector Machine)
 
-> Training set accuracy: 92.35% <br> Test set accuracy: 89.23%
+    Training set accuracy: 92.35%
+    Test set accuracy: 89.23%
 
 <br>
+
+### 5. 결론
+
+토큰화 방법 모델 성능에 큰 영향을 미치지 않는다는 것을 알 수 있었음
